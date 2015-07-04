@@ -1,0 +1,2 @@
+# SCsquad
+=SC=Squad
